@@ -1,9 +1,9 @@
 (☞ﾟヮﾟ)☞ `About ME` ☜(ﾟヮﾟ☜)
 -
-- 👋 Hi, I’m @Ghostridr - `please, call me Ghost`
-- 👀 I’m interested in learning `about all things pertaining to "coding"`
-- 🌱 I’m currently learning `to write code`
-- 💞️ I’m looking to collaborate on `future projects`
+- 👋 Hi, I’m @Ghostridr - call me Ghost.
+- 👀 I’m interested in learning more about coding and making programs.
+- 🌱 I’m currently learning to write code in different languages.
+- 💞️ I’m looking to collaborate on future projects.
 
 📫 `How to reach me` 💻
 - 
