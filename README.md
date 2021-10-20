@@ -9,8 +9,7 @@
 - 
 - **Discord**
   - `@Ghostridr#8718`
-- **Telegram**
-  - `https://t.me/Ghostridr01`
+- [Telegram](https://t.me/Ghostridr01)
 
 <!---
 Ghostridr/Ghostridr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
