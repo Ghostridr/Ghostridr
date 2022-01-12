@@ -2,7 +2,7 @@
 -
 - 👋 Hi, I’m @Ghostridr - call me Ghost.
 - 👀 I’m interested in learning more about coding and making programs.
-- 🌱 I’m currently learning to write code in different languages.
+- 🌱 I’m currently learning to write code in C#.
 - 💞️ I’m looking to collaborate on future projects.
 
 📫 `How to reach me` 💻
