@@ -8,7 +8,7 @@
 📫 `How to reach me` 💻
 - 
 - **Discord**
-  - `@Ghostridr#8718`
+  - `@Ghostridr#0001`
 - [Telegram](https://t.me/Ghostridr01)
 
 <!---
