@@ -1,9 +1,5 @@
 <picture>
-<<<<<<< HEAD
   <img style="display: block; margin-left: auto; margin-right: auto; max-width: 100%;" type="image/jpg" src="/img/40618.jpg" alt="Programmer" />
-=======
-  <img style="display: block; margin-left: auto; margin-right: auto; max-width: 100%;" src="https://getwallpapers.com/wallpaper/full/7/0/0/40592.jpg" alt="Programmer" />
->>>>>>> fe1537bcc297fa20e8842138d56d140e924ac9f3
 </picture>
 
 <p align="center">
