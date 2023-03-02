@@ -8,8 +8,9 @@
   </a>
 </p>
 
-# <p align="center">About ME</p>
-### <p align="center">👋 Hi! I’m Ghost! :ghost:</p>
+![Header](/img/github-header-image.png)
+
+<hr />
 
 <p align="justify">I am ambitious and hardworking. Once I've set my mind on something then I work to achieve that goal. I can be a perfectionist and will sometimes spend extra time on somethings than I probably should, but planning ahead and preparing for it is never a bad thing (I don't think). I do tend to hyper-focus alot once I'm started on a series of tasks.</p>
 
