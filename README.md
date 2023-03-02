@@ -1,9 +1,6 @@
 ![Header](/img/github-header-image.png)
-<p align="left">
-  <img src="https://dcbadge.vercel.app/api/shield/597996927375900682?style=plastic&theme=discord-inverted" />
-</p>
 
-![GitHub last commit](https://img.shields.io/github/last-commit/Ghostridr/Ghostridr?style=plastic)
+<img src="https://img.shields.io/github/last-commit/Ghostridr/Ghostridr?style=plastic" /> <img src="https://dcbadge.vercel.app/api/shield/597996927375900682?style=plastic&theme=discord-inverted" />
 
 <p align="center">Programming Languages Used</p>
 <p align="center">
