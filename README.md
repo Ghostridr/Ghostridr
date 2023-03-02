@@ -1,16 +1,16 @@
-<picture>
-  <img style="display: block; margin-left: auto; margin-right: auto; max-width: 100%;" type="image/jpg" src="/img/40618.jpg" alt="Programmer" />
-</picture>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,github,html,css,js,php,md" />
-  </a>
+![Header](/img/github-header-image.png)
+<p align="left">
+  <img src="https://dcbadge.vercel.app/api/shield/597996927375900682?style=plastic&theme=discord-inverted" />
 </p>
 
-![Header](/img/github-header-image.png)
+![GitHub last commit](https://img.shields.io/github/last-commit/Ghostridr/Ghostridr?style=plastic)
 
-<hr />
+<p align="center">Programming Languages Used</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,github,html,css,js,php,sqlite,md" />
+  </a>
+</p>
 
 <p align="justify">I am ambitious and hardworking. Once I've set my mind on something then I work to achieve that goal. I can be a perfectionist and will sometimes spend extra time on somethings than I probably should, but planning ahead and preparing for it is never a bad thing (I don't think). I do tend to hyper-focus alot once I'm started on a series of tasks.</p>
 
@@ -20,7 +20,7 @@
 - 🌱 I’m currently learning to write code.
 - 💞️ One day I'd like to collaborate on future projects.
 
-### <p align="center">GitHub Metrics</p>
+# <p align="center">GitHub Metrics</p>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ghostridr&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5) ![Ghost's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghostridr&theme=tokyonight&show_icons=true)
 ![trophy](https://github-profile-trophy.vercel.app/?username=ghostridr&theme=onedark)
 
@@ -55,20 +55,6 @@ journey
         Go to Sleep: 4: Ghost
 ```
   
-</details>
-
-## <p align="center">Contact Info</p>
-
-<details align="center">
-<summary>📫 How to Reach Me</summary>
-<p>
-
-Platform|Tag
-:---:|:---:
-[Discord](https://support.discord.com/hc/en-us/articles/218344397-How-do-I-add-my-friend-to-my-friends-list-) | [ ]#0001
-[Telegram](https://t.me/Ghostridr01) | Ghostridr01
-
-</p>
 </details>
 
 ---
