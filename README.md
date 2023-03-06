@@ -25,9 +25,9 @@
 
 # <p align="center">My Projects</p>
 
-- [x] <img src="https://img.shields.io/badge/Status-Archived-orange?style=plastic" /> [SynXis PM Autoloader](https://github.com/Ghostridr/SynXis) <img src="https://devstart.pl/uploads/monthly_2015_09/logo-vbscript.png.fcad28e12c233fb00040d2e2f3f2cefb.png" alt="VBS Logo" height="30"/>
+- [x] <img src="https://img.shields.io/badge/Status-Archived-orange?style=plastic" /> [SynXis PM Autoloader](https://github.com/Ghost-Hackers-Archive/SynXis) <img src="https://devstart.pl/uploads/monthly_2015_09/logo-vbscript.png.fcad28e12c233fb00040d2e2f3f2cefb.png" alt="VBS Logo" height="30"/>
 
-- [ ] <img src="https://img.shields.io/badge/Status-Active-green?style=plastic" /> [Ground Zero](https://github.com/Ghostridr/Ground-Zero) <img src="https://woz-u.com/wp-content/uploads/2021/05/HTML_badge-e1621362573572.png" alt="Html 5 Logo" height="30"/> <img src="https://woz-u.com/wp-content/uploads/2021/05/CSS_badge-e1621362586766.png" alt="CSS Logo" height="30"/> <img src="https://woz-u.com/wp-content/uploads/2021/05/Javascript_badge-e1621875646174.png" alt="JS Logo" height="30"/> <img src="https://pngimg.com/uploads/php/php_PNG49.png" alt="PHP Logo" height="30"/> <img src="https://dwglogo.com/wp-content/uploads/2017/09/JSON_vector_logo.png" alt="JSON Logo" height="30" /><img src="https://darwintechnology.in/wp-content/uploads/2021/08/Sqlite-square-icon.svg.png" height="30" />
+- [ ] <img src="https://img.shields.io/badge/Status-Active-green?style=plastic" /> [Ground Zero](https://github.com/Ghost-Hackers/ground-zero) <img src="https://woz-u.com/wp-content/uploads/2021/05/HTML_badge-e1621362573572.png" alt="Html 5 Logo" height="30"/> <img src="https://woz-u.com/wp-content/uploads/2021/05/CSS_badge-e1621362586766.png" alt="CSS Logo" height="30"/> <img src="https://woz-u.com/wp-content/uploads/2021/05/Javascript_badge-e1621875646174.png" alt="JS Logo" height="30"/> <img src="https://pngimg.com/uploads/php/php_PNG49.png" alt="PHP Logo" height="30"/> <img src="https://dwglogo.com/wp-content/uploads/2017/09/JSON_vector_logo.png" alt="JSON Logo" height="30" /><img src="https://darwintechnology.in/wp-content/uploads/2021/08/Sqlite-square-icon.svg.png" height="30" />
 
 # <p align="center">Typical Schedule</p>
 
