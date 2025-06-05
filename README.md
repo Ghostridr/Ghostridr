@@ -14,7 +14,7 @@
 
 ---
 
-## Ghostridr's GitHub Profile
+## Ghost's GitHub Profile
 
 Welcome to my GitHub profile!
 
@@ -32,7 +32,7 @@ Welcome to my GitHub profile!
 
 ## About Me
 
-Hey, I'm **Ghostridr**!  
+Hey, I'm **Ghost**!  
 Founder & Owner of [Ghost Hackers](https://github.com/Ghost-Hackers)
 
 I'm a passionate self-taught developer, tech enthusiast, and founder of the [Ghost Hackers](https://github.com/Ghost-Hackers) organization. My journey began with burning curiosity and a drive to automate, optimize, and create. I thrive on learning new technologies, building useful tools, and collaborating with like-minded people. I believe in the power of open source, community, and continuous learning. My mission is to build innovative solutions, automate the boring stuff, and help others grow through what I've learned and can share.
