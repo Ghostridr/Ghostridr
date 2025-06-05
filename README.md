@@ -73,25 +73,23 @@ I love working on projects that challenge me and help others along the way. Here
 
 <div align="center">
 
-  <img src="/img/ghost_hackers_logo.png" alt="Ghost Hackers Logo" width="32"/>
-
-### Ghost Hackers
+### <img src="/img/ghost_hackers_logo.png" alt="Ghost Hackers Logo" width="40"/> Ghost Hackers
 
   | **Active** | **Inactive** | **Deprecated** | **On Hold** | **Archiving** |
   |:---|:---|:---|:---|:---|
-  | [![genesis-bot](https://img.shields.io/badge/genesis--bot-active-brightgreen?style=flat-square)](https://github.com/Ghost-Hackers/genesis-bot) [![badges](https://img.shields.io/badge/badges-active-brightgreen?style=flat-square)](https://github.com/Ghost-Hackers/badges) | [![ghostly-debugger](https://img.shields.io/badge/ghostly--debugger-inactive-lightgrey?style=flat-square)](https://github.com/Ghost-Hackers/ghostly-debugger) [![Ghost-Hackers.bot](https://img.shields.io/badge/Ghost--Hackers.bot-inactive-lightgrey?style=flat-square)](https://github.com/Ghost-Hackers/Ghost-Hackers.bot) [![ground-zero](https://img.shields.io/badge/ground--zero-inactive-lightgrey?style=flat-square)](https://github.com/Ghost-Hackers/ground-zero) | [![sakurabot](https://img.shields.io/badge/sakurabot-deprecated-red?style=flat-square)](https://github.com/Ghost-Hackers/sakurabot) | [![jarvis](https://img.shields.io/badge/jarvis-on--hold-yellow?style=flat-square)](https://github.com/Ghost-Hackers/jarvis) | [![sph-report-cleanup](https://img.shields.io/badge/sph--report--cleanup-archiving-blue?style=flat-square)](https://github.com/Ghost-Hackers/sph-report-cleanup) |
+  | [![genesis-bot](https://img.shields.io/badge/genesis--bot-active-brightgreen?style=plastic)](https://github.com/Ghost-Hackers/genesis-bot) [![badges](https://img.shields.io/badge/badges-active-brightgreen?style=plastic)](https://github.com/Ghost-Hackers/badges) | [![ghostly-debugger](https://img.shields.io/badge/ghostly--debugger-inactive-lightgrey?style=plastic)](https://github.com/Ghost-Hackers/ghostly-debugger) [![Ghost-Hackers.bot](https://img.shields.io/badge/Ghost--Hackers.bot-inactive-lightgrey?style=plastic)](https://github.com/Ghost-Hackers/Ghost-Hackers.bot) [![ground-zero](https://img.shields.io/badge/ground--zero-inactive-lightgrey?style=plastic)](https://github.com/Ghost-Hackers/ground-zero) | [![sakurabot](https://img.shields.io/badge/sakurabot-deprecated-red?style=plastic)](https://github.com/Ghost-Hackers/sakurabot) | [![jarvis](https://img.shields.io/badge/jarvis-on--hold-yellow?style=plastic)](https://github.com/Ghost-Hackers/jarvis) | [![sph-report-cleanup](https://img.shields.io/badge/sph--report--cleanup-archiving-blue?style=plastic)](https://github.com/Ghost-Hackers/sph-report-cleanup) |
 
-### Ghost Hackers Archive
+### <img src="/img/ghost_hackers_archived_logo.png" alt="Ghost Hackers Logo" width="40"/> Ghost Hackers Archive
 
   | **Archived** |
   |:---|
-  | [![SynXis-Autoloader](https://img.shields.io/badge/SynXis--Autoloader-archived-lightgrey?style=flat-square)](https://github.com/Ghost-Hackers-Archive/SynXis-Autoloader) |
+  | [![SynXis-Autoloader](https://img.shields.io/badge/SynXis--Autoloader-archived-lightgrey?style=plastic)](https://github.com/Ghost-Hackers-Archive/SynXis-Autoloader) |
 
 ### Personal Repo Profile
 
   | **Active** | **Inactive** | **Deprecated** | **On Hold** | **Archiving** |
   |:---|:---|:---|:---|:---|
-  | [![Ghostridr](https://img.shields.io/badge/Ghostridr-active-brightgreen?style=flat-square)](https://github.com/Ghostridr/Ghostridr) |  |  |  |  |
+  | [![Ghostridr](https://img.shields.io/badge/Ghostridr-active-brightgreen?style=plastic)](https://github.com/Ghostridr/Ghostridr) |  |  |  |  |
 
 </div>
 
