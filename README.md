@@ -141,6 +141,8 @@ mindmap
 
 — Unknown
 
+---
+[![Back to Top](https://img.shields.io/badge/Back%20to%20Top-%E2%86%A9-blue?style=plastic&logo=github)](#ghosts-github-profile)
 <!---
 Ghostridr/Ghostridr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
