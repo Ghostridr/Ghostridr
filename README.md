@@ -89,7 +89,7 @@ I love working on projects that challenge me and help others along the way. Here
 
   | **Active** | **Inactive** | **Deprecated** | **On Hold** | **Archiving** |
   |:---|:---|:---|:---|:---|
-  | [![Ghostridr](https://img.shields.io/badge/Ghostridr-active-brightgreen?style=plastic)](https://github.com/Ghostridr/Ghostridr) |  |  |  |  |
+  | [![Ghostridr](https://img.shields.io/badge/Ghostridr-active-brightgreen?style=plastic)](https://github.com/Ghostridr/Ghostridr) [![discord-fg](https://img.shields.io/badge/discord--fg-active-brightgreen?style=plastic)](https://github.com/Ghostridr/discord-fg) [![script-colors](https://img.shields.io/badge/script--colors-active-brightgreen?style=plastic)](https://github.com/Ghostridr/script-colors) [![chmod-gatekeeper](https://img.shields.io/badge/chmod--gatekeeper-active-brightgreen?style=plastic)](https://github.com/Ghostridr/chmod-gatekeeper) |  |  |  |  |
 
 </div>
 
