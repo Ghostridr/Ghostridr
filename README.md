@@ -45,11 +45,14 @@
 <details open>
 <summary><strong>Featured Work</strong></summary>
 
-| Project | Status | Purpose / goal |
-|:--|:--|:--|
-| [![ScreepsWorld](https://img.shields.io/static/v1?label=&message=ScreepsWorld&color=5865F2&style=plastic&logo=github)](https://github.com/Ghostridr/ScreepsWorld) | ![Active](https://img.shields.io/badge/status-active-brightgreen?style=plastic) | Use Screeps as a hands-on lab for building a modular, testable JavaScript bot while practicing clean architecture, tooling, CI, and documentation. |
-| [![DiscordFG](https://img.shields.io/static/v1?label=&message=DiscordFG&color=5865F2&style=plastic&logo=github)](https://github.com/Ghostridr/discord-fg) | ![Active](https://img.shields.io/badge/status-active-brightgreen?style=plastic) | Make Discord text formatting easier to learn with a visual, interactive reference that turns Markdown features into practical examples. |
-| [![chmod-gatekeeper](https://img.shields.io/static/v1?label=&message=chmod-gatekeeper&color=5865F2&style=plastic&logo=github)](https://github.com/Ghostridr/chmod-gatekeeper) | ![Active](https://img.shields.io/badge/status-active-brightgreen?style=plastic) | Reduce macOS app setup friction by automating backup, update checks, permission fixes, and quarantine cleanup with clear terminal prompts. |
+- [![ScreepsWorld](https://img.shields.io/static/v1?label=&message=ScreepsWorld&color=5865F2&style=plastic&logo=github)](https://github.com/Ghostridr/ScreepsWorld) ![Active](https://img.shields.io/badge/status-active-brightgreen?style=plastic)<br>
+  Use Screeps as a hands-on lab for building a modular, testable JavaScript bot while practicing clean architecture, tooling, CI, and documentation.
+
+- [![DiscordFG](https://img.shields.io/static/v1?label=&message=DiscordFG&color=5865F2&style=plastic&logo=github)](https://github.com/Ghostridr/discord-fg) ![Active](https://img.shields.io/badge/status-active-brightgreen?style=plastic)<br>
+  Make Discord text formatting easier to learn with a visual, interactive reference that turns Markdown features into practical examples.
+
+- [![chmod-gatekeeper](https://img.shields.io/static/v1?label=&message=chmod-gatekeeper&color=5865F2&style=plastic&logo=github)](https://github.com/Ghostridr/chmod-gatekeeper) ![Active](https://img.shields.io/badge/status-active-brightgreen?style=plastic)<br>
+  Reduce macOS app setup friction by automating backup, update checks, permission fixes, and quarantine cleanup with clear terminal prompts.
 
 </details>
 
@@ -57,11 +60,14 @@
 <details>
 <summary><strong>Additional Work</strong></summary>
 
-| Project | Status | Purpose / goal |
-|:--|:--|:--|
-| [![ghostly-debugger](https://img.shields.io/static/v1?label=&message=ghostly-debugger&color=5865F2&style=plastic&logo=github)](https://github.com/Ghostridr/ghostly-debugger) | ![Inactive](https://img.shields.io/badge/status-inactive-lightgrey?style=plastic) | Explore how debuggers work by building a Python CLI that can pause execution, inspect state, and manage breakpoints and watch expressions. |
-| [![script-colors](https://img.shields.io/static/v1?label=&message=script-colors&color=5865F2&style=plastic&logo=github)](https://github.com/Ghostridr/script-colors) | ![Active](https://img.shields.io/badge/status-active-brightgreen?style=plastic) | Make terminal scripts easier to scan by sharing reusable Bash and PowerShell color and style helpers. |
-| [![badges](https://img.shields.io/static/v1?label=&message=badges&color=5865F2&style=plastic&logo=github)](https://github.com/Ghost-Hackers/badges) | ![Planning](https://img.shields.io/badge/status-planning-yellow?style=plastic) | Hold space for reusable Ghost Hackers badge assets and project status badges as the organization standardizes its presentation. |
+- [![ghostly-debugger](https://img.shields.io/static/v1?label=&message=ghostly-debugger&color=5865F2&style=plastic&logo=github)](https://github.com/Ghostridr/ghostly-debugger) ![Inactive](https://img.shields.io/badge/status-inactive-lightgrey?style=plastic)<br>
+  Explore how debuggers work by building a Python CLI that can pause execution, inspect state, and manage breakpoints and watch expressions.
+
+- [![script-colors](https://img.shields.io/static/v1?label=&message=script-colors&color=5865F2&style=plastic&logo=github)](https://github.com/Ghostridr/script-colors) ![Active](https://img.shields.io/badge/status-active-brightgreen?style=plastic)<br>
+  Make terminal scripts easier to scan by sharing reusable Bash and PowerShell color and style helpers.
+
+- [![badges](https://img.shields.io/static/v1?label=&message=badges&color=5865F2&style=plastic&logo=github)](https://github.com/Ghost-Hackers/badges) ![Planning](https://img.shields.io/badge/status-planning-yellow?style=plastic)<br>
+  Hold space for reusable Ghost Hackers badge assets and project status badges as the organization standardizes its presentation.
 
 </details>
 
@@ -69,11 +75,14 @@
 <details>
 <summary><strong>Archived Work</strong></summary>
 
-| Project | Status | Purpose / goal |
-|:--|:--|:--|
-| [![SPH Report Cleanup](https://img.shields.io/static/v1?label=&message=SPH%20Report%20Cleanup&color=5865F2&style=plastic&logo=github)](https://github.com/Ghost-Hackers-Archive/sph-report-cleanup) | ![Archived](https://img.shields.io/badge/status-archived-lightgrey?style=plastic) | Help Windows users safely review and remove sensitive SPH report PDFs from Downloads through a guided GUI instead of manual file cleanup. |
-| [![SynXis-Autoloader](https://img.shields.io/static/v1?label=&message=SynXis-Autoloader&color=5865F2&style=plastic&logo=github)](https://github.com/Ghost-Hackers-Archive/SynXis-Autoloader) | ![Archived](https://img.shields.io/badge/status-archived-lightgrey?style=plastic) | Automate a repetitive SynXis launch path so routine workstation startup takes fewer manual steps. |
-| [![SynXis-OnPortal-Launcher](https://img.shields.io/static/v1?label=&message=SynXis-OnPortal-Launcher&color=5865F2&style=plastic&logo=github)](https://github.com/Ghost-Hackers-Archive/SynXis-OnPortal-Launcher) | ![Archived](https://img.shields.io/badge/status-archived-lightgrey?style=plastic) | Coordinate SynXis and OnPortal startup with timed launches and clear status output for a smoother daily workflow. |
+- [![SPH Report Cleanup](https://img.shields.io/static/v1?label=&message=SPH%20Report%20Cleanup&color=5865F2&style=plastic&logo=github)](https://github.com/Ghost-Hackers-Archive/sph-report-cleanup) ![Archived](https://img.shields.io/badge/status-archived-lightgrey?style=plastic)<br>
+  Help Windows users safely review and remove sensitive SPH report PDFs from Downloads through a guided GUI instead of manual file cleanup.
+
+- [![SynXis-Autoloader](https://img.shields.io/static/v1?label=&message=SynXis-Autoloader&color=5865F2&style=plastic&logo=github)](https://github.com/Ghost-Hackers-Archive/SynXis-Autoloader) ![Archived](https://img.shields.io/badge/status-archived-lightgrey?style=plastic)<br>
+  Automate a repetitive SynXis launch path so routine workstation startup takes fewer manual steps.
+
+- [![SynXis-OnPortal-Launcher](https://img.shields.io/static/v1?label=&message=SynXis-OnPortal-Launcher&color=5865F2&style=plastic&logo=github)](https://github.com/Ghost-Hackers-Archive/SynXis-OnPortal-Launcher) ![Archived](https://img.shields.io/badge/status-archived-lightgrey?style=plastic)<br>
+  Coordinate SynXis and OnPortal startup with timed launches and clear status output for a smoother daily workflow.
 
 </details>
 
@@ -83,17 +92,32 @@
 
 Private repositories are summarized at a high level. Project badges still link to GitHub, and GitHub will decide visibility based on access.
 
-| Project | Status | Purpose / goal |
-|:--|:--|:--|
-| [![Genesis](https://img.shields.io/static/v1?label=&message=Genesis&color=5865F2&style=plastic&logo=github)](https://github.com/Ghost-Hackers/genesis) | ![Active](https://img.shields.io/badge/status-active-brightgreen?style=plastic) ![Private](https://img.shields.io/badge/visibility-private-blueviolet?style=plastic) | Build a modular Discord community platform that connects moderation, tickets, entitlements, game server operations, dashboard tooling, and future AI-assisted workflows. |
-| [![Ground Zero](https://img.shields.io/static/v1?label=&message=Ground%20Zero&color=5865F2&style=plastic&logo=github)](https://github.com/Ghost-Hackers/ground-zero) | ![Inactive](https://img.shields.io/badge/status-inactive-lightgrey?style=plastic) ![Private](https://img.shields.io/badge/visibility-private-blueviolet?style=plastic) | Plan a private website and operations platform for a future community/gaming lounge, including member management, scheduling, communication, security, and business workflows. |
-| [![JARVIS](https://img.shields.io/static/v1?label=&message=JARVIS&color=5865F2&style=plastic&logo=github)](https://github.com/Ghost-Hackers/jarvis) | ![On Hold](https://img.shields.io/badge/status-on%20hold-yellow?style=plastic) ![Private](https://img.shields.io/badge/visibility-private-blueviolet?style=plastic) | Explore a personal AI assistant for my own projects: a helper for project work, site management, operational decisions, and future automation ideas. |
-| [![Genesis Dashboard](https://img.shields.io/static/v1?label=&message=Genesis%20Dashboard&color=5865F2&style=plastic&logo=laravel)](https://github.com/Ghost-Hackers/dashboard) | ![Active](https://img.shields.io/badge/status-active-brightgreen?style=plastic) ![Private](https://img.shields.io/badge/visibility-private-blueviolet?style=plastic) | Provide a Laravel management surface for guild configuration, entitlements, billing, MFA, deployment checks, and operational admin workflows. |
-| [![Genesis Bot](https://img.shields.io/static/v1?label=&message=Genesis%20Bot&color=5865F2&style=plastic&logo=discord)](https://github.com/Ghost-Hackers/bot) | ![Active](https://img.shields.io/badge/status-active-brightgreen?style=plastic) ![Private](https://img.shields.io/badge/visibility-private-blueviolet?style=plastic) | Run a cluster-ready Discord bot with modular commands, runtime entitlement checks, localization, diagnostics, and safe-mode troubleshooting paths. |
-| [![Genesis Agent](https://img.shields.io/static/v1?label=&message=Genesis%20Agent&color=5865F2&style=plastic&logo=fastify)](https://github.com/Ghost-Hackers/agent) | ![Active](https://img.shields.io/badge/status-active-brightgreen?style=plastic) ![Private](https://img.shields.io/badge/visibility-private-blueviolet?style=plastic) | Isolate high-trust infrastructure actions behind a small authenticated control plane instead of giving the Discord bot direct system access. |
-| [![Genesis AI](https://img.shields.io/static/v1?label=&message=Genesis%20AI&color=5865F2&style=plastic&logo=openai)](https://github.com/Ghost-Hackers/ai) | ![Active](https://img.shields.io/badge/status-active-brightgreen?style=plastic) ![Private](https://img.shields.io/badge/visibility-private-blueviolet?style=plastic) | Explore a fenced assistant service with ownership checks, audit logging, manifest validation, and fail-closed tool execution boundaries. |
-| [![Genesis Contracts](https://img.shields.io/static/v1?label=&message=Genesis%20Contracts&color=5865F2&style=plastic&logo=json)](https://github.com/Ghost-Hackers/contracts) | ![Active](https://img.shields.io/badge/status-active-brightgreen?style=plastic) ![Private](https://img.shields.io/badge/visibility-private-blueviolet?style=plastic) | Keep bot, dashboard, agent, and AI services aligned through shared schemas, API contracts, and compatibility boundaries. |
-| [![Genesis Infra](https://img.shields.io/static/v1?label=&message=Genesis%20Infra&color=5865F2&style=plastic&logo=terraform)](https://github.com/Ghost-Hackers/infra) | ![Active](https://img.shields.io/badge/status-active-brightgreen?style=plastic) ![Private](https://img.shields.io/badge/visibility-private-blueviolet?style=plastic) | Organize infrastructure-as-code, deployment automation, container orchestration, and runtime supervision for the Genesis platform. |
+- [![Genesis](https://img.shields.io/static/v1?label=&message=Genesis&color=5865F2&style=plastic&logo=github)](https://github.com/Ghost-Hackers/genesis) ![Active](https://img.shields.io/badge/status-active-brightgreen?style=plastic) ![Private](https://img.shields.io/badge/visibility-private-blueviolet?style=plastic)<br>
+  Build a modular Discord community platform that connects moderation, tickets, entitlements, game server operations, dashboard tooling, and future AI-assisted workflows.
+
+- [![Ground Zero](https://img.shields.io/static/v1?label=&message=Ground%20Zero&color=5865F2&style=plastic&logo=github)](https://github.com/Ghost-Hackers/ground-zero) ![Inactive](https://img.shields.io/badge/status-inactive-lightgrey?style=plastic) ![Private](https://img.shields.io/badge/visibility-private-blueviolet?style=plastic)<br>
+  Plan a private website and operations platform for a future community/gaming lounge, including member management, scheduling, communication, security, and business workflows.
+
+- [![JARVIS](https://img.shields.io/static/v1?label=&message=JARVIS&color=5865F2&style=plastic&logo=github)](https://github.com/Ghost-Hackers/jarvis) ![On Hold](https://img.shields.io/badge/status-on%20hold-yellow?style=plastic) ![Private](https://img.shields.io/badge/visibility-private-blueviolet?style=plastic)<br>
+  Explore a personal AI assistant for my own projects: a helper for project work, site management, operational decisions, and future automation ideas.
+
+- [![Genesis Dashboard](https://img.shields.io/static/v1?label=&message=Genesis%20Dashboard&color=5865F2&style=plastic&logo=laravel)](https://github.com/Ghost-Hackers/dashboard) ![Active](https://img.shields.io/badge/status-active-brightgreen?style=plastic) ![Private](https://img.shields.io/badge/visibility-private-blueviolet?style=plastic)<br>
+  Provide a Laravel management surface for guild configuration, entitlements, billing, MFA, deployment checks, and operational admin workflows.
+
+- [![Genesis Bot](https://img.shields.io/static/v1?label=&message=Genesis%20Bot&color=5865F2&style=plastic&logo=discord)](https://github.com/Ghost-Hackers/bot) ![Active](https://img.shields.io/badge/status-active-brightgreen?style=plastic) ![Private](https://img.shields.io/badge/visibility-private-blueviolet?style=plastic)<br>
+  Run a cluster-ready Discord bot with modular commands, runtime entitlement checks, localization, diagnostics, and safe-mode troubleshooting paths.
+
+- [![Genesis Agent](https://img.shields.io/static/v1?label=&message=Genesis%20Agent&color=5865F2&style=plastic&logo=fastify)](https://github.com/Ghost-Hackers/agent) ![Active](https://img.shields.io/badge/status-active-brightgreen?style=plastic) ![Private](https://img.shields.io/badge/visibility-private-blueviolet?style=plastic)<br>
+  Isolate high-trust infrastructure actions behind a small authenticated control plane instead of giving the Discord bot direct system access.
+
+- [![Genesis AI](https://img.shields.io/static/v1?label=&message=Genesis%20AI&color=5865F2&style=plastic&logo=openai)](https://github.com/Ghost-Hackers/ai) ![Active](https://img.shields.io/badge/status-active-brightgreen?style=plastic) ![Private](https://img.shields.io/badge/visibility-private-blueviolet?style=plastic)<br>
+  Explore a fenced assistant service with ownership checks, audit logging, manifest validation, and fail-closed tool execution boundaries.
+
+- [![Genesis Contracts](https://img.shields.io/static/v1?label=&message=Genesis%20Contracts&color=5865F2&style=plastic&logo=json)](https://github.com/Ghost-Hackers/contracts) ![Active](https://img.shields.io/badge/status-active-brightgreen?style=plastic) ![Private](https://img.shields.io/badge/visibility-private-blueviolet?style=plastic)<br>
+  Keep bot, dashboard, agent, and AI services aligned through shared schemas, API contracts, and compatibility boundaries.
+
+- [![Genesis Infra](https://img.shields.io/static/v1?label=&message=Genesis%20Infra&color=5865F2&style=plastic&logo=terraform)](https://github.com/Ghost-Hackers/infra) ![Active](https://img.shields.io/badge/status-active-brightgreen?style=plastic) ![Private](https://img.shields.io/badge/visibility-private-blueviolet?style=plastic)<br>
+  Organize infrastructure-as-code, deployment automation, container orchestration, and runtime supervision for the Genesis platform.
 
 </details>
 
