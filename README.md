@@ -36,10 +36,14 @@
 
 ## About Me
 
-- Self-taught developer focused on general software, automation, web tools, and developer experience.
-- Founder of [Ghost Hackers](https://github.com/Ghost-Hackers), where I organize projects, documentation, and collaboration around learning and building useful tools.
-- I like software that is understandable before it is clever: small modules, clear names, careful docs, and predictable behavior.
-- AI has become an invaluable learning partner for me: I use it to ask better questions, compare approaches, debug ideas, and reinforce concepts while I keep building the understanding for myself.
+I am a Christian and a self-taught developer focused on general software, automation, web tools, and developer experience. I build practical things with clear workflows, reliable behavior, and documentation that makes future work easier to pick back up.
+
+I founded Ghost Hackers to organize projects, documentation, and collaboration around learning and building useful tools. I also keep retired or historical work in Ghost Hackers Archive so older projects stay accessible without crowding the active organization.
+
+[![Ghost Hackers](https://img.shields.io/static/v1?label=&message=Ghost%20Hackers&color=1f883d&style=plastic&logo=github)](https://github.com/Ghost-Hackers)
+[![Ghost Hackers Archive](https://img.shields.io/static/v1?label=&message=Ghost%20Hackers%20Archive&color=6e7781&style=plastic&logo=github)](https://github.com/Ghost-Hackers-Archive)
+
+I like software that is understandable before it is clever: small modules, clear names, careful docs, and predictable behavior. AI has become an invaluable learning partner for me: I use it to ask better questions, compare approaches, debug ideas, and reinforce concepts while I keep building the understanding for myself.
 
 <a id="featured-work"></a>
 <details open>
@@ -143,7 +147,10 @@ Private repositories are summarized at a high level. Project badges still link t
 
 ## Contact
 
-The best places to reach me are [GitHub](https://github.com/Ghostridr) and [Discord](https://discord.com/users/597996927375900682). I am open to general software opportunities, collaboration, mentoring, and projects where reliability and usability matter.
+I am open to general software opportunities, collaboration, mentoring, and projects where reliability and usability matter. I am usually a day sleeper, so GitHub or Discord messages may not get an immediate response during daytime hours, but I will reply when I am back online.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Ghostridr-181717?style=plastic&logo=github)](https://github.com/Ghostridr)
+[![Discord](https://img.shields.io/badge/Discord-Ghostridr-5865F2?style=plastic&logo=discord&logoColor=white)](https://discord.com/users/597996927375900682)
 
 ---
 
