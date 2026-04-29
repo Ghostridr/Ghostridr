@@ -45,11 +45,11 @@
 <details open>
 <summary><strong>Featured Work</strong></summary>
 
-| Project | Status | Purpose / goal | Tech and focus |
-|:--|:--|:--|:--|
-| [![ScreepsWorld](https://img.shields.io/static/v1?label=&message=ScreepsWorld&color=5865F2&style=plastic&logo=github)](https://github.com/Ghostridr/ScreepsWorld) | ![Active](https://img.shields.io/badge/status-active-brightgreen?style=plastic) | Use Screeps as a hands-on lab for building a modular, testable JavaScript bot while practicing clean architecture, tooling, CI, and documentation. | JavaScript, Node.js, Jest, ESLint, Prettier, GitHub Actions |
-| [![DiscordFG](https://img.shields.io/static/v1?label=&message=DiscordFG&color=5865F2&style=plastic&logo=github)](https://github.com/Ghostridr/discord-fg) | ![Active](https://img.shields.io/badge/status-active-brightgreen?style=plastic) | Make Discord text formatting easier to learn with a visual, interactive reference that turns Markdown features into practical examples. | HTML, CSS, JavaScript, UX writing, documentation |
-| [![chmod-gatekeeper](https://img.shields.io/static/v1?label=&message=chmod-gatekeeper&color=5865F2&style=plastic&logo=github)](https://github.com/Ghostridr/chmod-gatekeeper) | ![Active](https://img.shields.io/badge/status-active-brightgreen?style=plastic) | Reduce macOS app setup friction by automating backup, update checks, permission fixes, and quarantine cleanup with clear terminal prompts. | Bash, macOS automation, permissions, update flow |
+| Project | Status | Purpose / goal |
+|:--|:--|:--|
+| [![ScreepsWorld](https://img.shields.io/static/v1?label=&message=ScreepsWorld&color=5865F2&style=plastic&logo=github)](https://github.com/Ghostridr/ScreepsWorld) | ![Active](https://img.shields.io/badge/status-active-brightgreen?style=plastic) | Use Screeps as a hands-on lab for building a modular, testable JavaScript bot while practicing clean architecture, tooling, CI, and documentation. |
+| [![DiscordFG](https://img.shields.io/static/v1?label=&message=DiscordFG&color=5865F2&style=plastic&logo=github)](https://github.com/Ghostridr/discord-fg) | ![Active](https://img.shields.io/badge/status-active-brightgreen?style=plastic) | Make Discord text formatting easier to learn with a visual, interactive reference that turns Markdown features into practical examples. |
+| [![chmod-gatekeeper](https://img.shields.io/static/v1?label=&message=chmod-gatekeeper&color=5865F2&style=plastic&logo=github)](https://github.com/Ghostridr/chmod-gatekeeper) | ![Active](https://img.shields.io/badge/status-active-brightgreen?style=plastic) | Reduce macOS app setup friction by automating backup, update checks, permission fixes, and quarantine cleanup with clear terminal prompts. |
 
 </details>
 
